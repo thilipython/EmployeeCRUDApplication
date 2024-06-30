@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/EmployeeCRUDApplication.props" />
+</Project>
